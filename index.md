@@ -2,22 +2,26 @@ Bradey Brito-Garcia n01111786
 TempControl Blog
 CENG317
 -------------
+Week 6 (October 16 - November 17), 2017
 
- 
+STRIKE
 
-### September 20, 2017
+Week 5 October 16, 2017
 
-Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
-![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
+fgfg
 
-### September 13, 2017
+Week 4 October 2, 2017
 
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
+Created 
 
-### September 6, 2017
+Week 3 September 25, 2017
 
-Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
+Created 
 
-### August 30, 2017
+Week 2 September 17, 2017 
 
-Welcome!
+sdsd
+
+Week 1 September 11, 2017
+
+Welcome
