@@ -9,13 +9,15 @@ TempControl Blog - CENG317
 ### Week 5 October 16, 2017
 
 * My raspberry pie 3 kit has arrived 
+
 * My DHT11 sensor has still not arrived. I had to order it directly from the SunFounder website because amazon was sold out.
+
+<img src="https://github.com/n01111786/TempControl/blob/master/DHT11.PNG?raw=true" alt="Buying DHT11" width="800" height="800">
+
 
 ### Week 4 October 2, 2017
 
 * Budget plan was submitted
-
-<img src="https://github.com/n01111786/TempControl/blob/master/budget1.png?raw=true" alt="proposal content" width="800" height="800">
 
 * I sent an email to the prototype lab asking them to make me a custom PCB board
 
