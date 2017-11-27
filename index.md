@@ -12,7 +12,7 @@ TempControl Blog - CENG317
 
 * My DHT11 sensor has still not arrived. I had to order it directly from the SunFounder website because amazon was sold out.
 
-<img src="https://github.com/n01111786/TempControl/blob/master/DHT11.PNG?raw=true" alt="Buying DHT11" width="800" height="800">
+<img src="https://github.com/n01111786/TempControl/blob/master/DHT11.PNG?raw=true" alt="Buying DHT11" width="600" height="450">
 
 
 ### Week 4 October 2, 2017
