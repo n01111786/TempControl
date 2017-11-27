@@ -1,11 +1,6 @@
----
-tagline: Website with GitHub Pages
-description: Simple website with GitHub Pages
-layout: page
-title: simple site
----
-
-Example Blog.
+Bradey Brito-Garcia n01111786
+TempControl Blog
+CENG317
 -------------
 
  
