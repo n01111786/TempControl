@@ -14,6 +14,9 @@ TempControl Blog - CENG317
 ### Week 4 October 2, 2017
 
 * Budget plan was submitted
+
+<img src="https://github.com/n01111786/TempControl/blob/master/budget.png?raw=true" alt=proposal content" width="800" height="800">
+
 * I sent an email to the prototype lab asking them to make me a custom PCB board
 
 ### Week 3 September 25, 2017
