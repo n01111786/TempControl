@@ -5,6 +5,7 @@ TempControl Blog - CENG317
 ### Week 6 (October 16 - November 17), 2017
 
 * During the Past 5 Weeks the school was on strike
+* Soldering and Testing of my PCB board is too be done this week.
 
 ### Week 5 October 16, 2017
 
