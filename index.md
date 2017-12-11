@@ -1,6 +1,12 @@
 Bradey Brito-Garcia n01111786
 TempControl Blog - CENG317
 
+### Week 8 December 11, 2017
+
+* Placard <a href="https://github.com/n01111786/TempControl/blob/master/GBM%20stats%20Placard.pub"> Placard</a>
+
+
+
 ### Week 7 December 4, 2017
 
 * PCBboard was sussecfully solderd, also i was able to succesully run Traffic2B in order to get LED blinking red/green.
