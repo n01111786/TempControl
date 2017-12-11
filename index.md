@@ -5,8 +5,6 @@ TempControl Blog - CENG317
 
 * <a href="https://github.com/n01111786/TempControl/blob/master/GBM%20stats%20Placard.pub">Placard</a> and <a href="https://github.com/n01111786/TempControl/blob/master/BradeyScript.docx">Script</a> Completed
 
-* Still waiting on DHT11 sensor to arrive.
-
 ### Week 7 December 4, 2017
 
 * PCBboard was sussecfully solderd, also i was able to succesully run Traffic2B in order to get LED blinking red/green.
