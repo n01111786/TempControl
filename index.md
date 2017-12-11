@@ -1,6 +1,17 @@
 Bradey Brito-Garcia n01111786
 TempControl Blog - CENG317
 
+### Week 7 December 4, 2017
+
+* PCBboard was sussecfully solderd, also i was able to succesully run Traffic2B in order to get LED blinking red/green.
+
+<img src="https://github.com/n01111786/TempControl/blob/master/pbcBOARDlight.JPG?raw=true" alt="Blink LED" width="400" height="300">
+
+* I was able to run GHmain, however no change occured on the light sensor. A possible fix i was made aware of is to compile a new python code, updates will be posted.
+
+* Furthermore we had to cut the trace near IC1, which I had kelly do for me.  
+
+<img src="https://github.com/n01111786/TempControl/blob/master/backside.JPG?raw=true" alt="Back" width="400" height="300">
 
 ### Week 6 (October 16 - November 17), 2017
 
