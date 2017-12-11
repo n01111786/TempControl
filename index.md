@@ -3,9 +3,9 @@ TempControl Blog - CENG317
 
 ### Week 8 December 11, 2017
 
-* Placard <a href="https://github.com/n01111786/TempControl/blob/master/GBM%20stats%20Placard.pub"> Placard</a>
+* <a href="https://github.com/n01111786/TempControl/blob/master/GBM%20stats%20Placard.pub">Placard</a> and <a href="https://github.com/n01111786/TempControl/blob/master/BradeyScript.docx">Script</a> Completed
 
-
+* Still waiting on DHT11 sensor to arrive.
 
 ### Week 7 December 4, 2017
 
