@@ -1,6 +1,11 @@
 Bradey Brito-Garcia n01111786
 TempControl Blog - CENG317
 
+### Week 9 December 18, 2017
+
+
+
+
 ### Week 8 December 11, 2017
 
 * <a href="https://github.com/n01111786/TempControl/blob/master/GBM%20stats%20Placard.pub">Placard</a> and <a href="https://github.com/n01111786/TempControl/blob/master/BradeyScript.docx">Script</a> Completed
