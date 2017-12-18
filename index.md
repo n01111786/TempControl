@@ -3,8 +3,7 @@ TempControl Blog - CENG317
 
 ### Week 9 December 18, 2017
 
-
-
+<iframe width="854" height="480" src="https://www.youtube.com/embed/tHT1aFrN5-M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Week 8 December 11, 2017
 
