@@ -1,6 +1,8 @@
 Bradey Brito-Garcia n01111786
 TempControl Blog - CENG317
 
+### Week 10 January 8, 2018
+
 ### Week 9 December 18, 2017
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/nTEVJ8AnZM0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
