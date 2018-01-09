@@ -3,6 +3,9 @@ TempControl Blog - CENG317
 
 ### Week 10 January 8, 2018
 
+<a href="https://github.com/n01111786/TempControl/blob/master/Progress%20Report.pdf">Progress Report</a> can be viewed, also <a href="https://github.com/n01111786/TempControl/blob/master/AdafruitDHT.py
+">Python Code</a> is now avalible.
+
 ### Week 9 December 18, 2017
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/nTEVJ8AnZM0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
