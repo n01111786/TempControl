@@ -1,6 +1,10 @@
 Bradey Brito-Garcia n01111786
 TempControl Blog - CENG317
 
+## Week 11 January 15, 2018
+
+
+<a href="https://github.com/n01111786/TempControl/blob/master/Hardware%20Presentation.pptx">Powerpoint</a> Presentaion completed.
 ### Week 10 January 8, 2018
 
 <a href="https://github.com/n01111786/TempControl/blob/master/Progress%20Report%20(1).pdf">Progress Report</a> can be viewed, also <a href="https://github.com/n01111786/TempControl/blob/master/AdafruitDHT.py
