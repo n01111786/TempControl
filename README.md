@@ -19,11 +19,11 @@ The project I decided to work on this semester was the DHT sensor module.  It is
 # Power up
 
 If booting for the first time after purchasing the Raspberry pi 3 starter kit from amazon, insert the SD card to the SD reader on the pi.
-I would recomend installing Raspbian as it is already on the SD and provides friendly user interface, The python code is avalible in my blog, you simply download the package from adafruit, save it as sudo yourfilename.py and compile in the terminal using the command " python yourfilename.py. it will compile if there are no errors.
+I would recomend installing Raspbian as it is already on the SD and provides friendly user interface, The python code is avalible in my blog, you simply download the package from adafruit, save it as sudo yourfilename.py and compile in the terminal using the command  "python yourfilename.py". It will compile if there are no errors.
 
 # Product testing
 
-If compiles succesful,you simply run this command in the terminal window:
+If compilation is succesful, you simply run this command in the terminal window:
 
 sudo /home/pi/Adafruit_Python_DHT/examples/AdafruitDHT.py 2302 4
 
