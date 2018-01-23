@@ -5,10 +5,10 @@
 The project I decided to work on this semester was the DHT sensor module.  It is a simple device which has to capability to measure the Temperature/Humidity of a given area.
 
 # Materials/Components Needed:
-*Raspberry pi 3 - $99.99
-*DHT Sensor (11 22 or AM2302) - $14.99
-*Connection wires/Breadboard - Parts kit
-*4k Ohm Resistor - 200 for $10.99
+* Raspberry pi 3 - $99.99
+* DHT Sensor (11 22 or AM2302) - $14.99
+* Connection wires/Breadboard - Parts kit
+* 4k Ohm Resistor - 200 for $10.99
 
 # Assembly:
 
@@ -23,7 +23,9 @@ I would recomend installing Raspbian as it is already on the SD and provides fri
 
 # Product testing
 
-If compiles succesful,you simply run this command in the terminal window: sudo /home/pi/Adafruit_Python_DHT/examples/AdafruitDHT.py 2302 4. The directory might be differant depending on where you save your files, also the 2302 can be changed to 11 or 22 depending on your sensor as well as the 4 in the code, that is the signal pin i used however there are multiple on the pi avalible.
+If compiles succesful,you simply run this command in the terminal window:
+sudo /home/pi/Adafruit_Python_DHT/examples/AdafruitDHT.py 2302 4
+The directory might be differant depending on where you save your files, also the 2302 can be changed to 11 or 22 depending on your sensor as well as the 4 in the code, that is the signal pin i used however there are multiple on the pi avalible.
 
 # Reproducable
 
